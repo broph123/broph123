@@ -11,7 +11,7 @@ I have 5 years experience working in the marketing and design world and understa
 | Programming Languages | Python, JavaScript                                                        |                 |
 | Frontend              | HTML, CSS, ReactJS, Redux, Context API                                                        |
 | Backend               | NodeJS, REST APIs                                   |
-| Databases             | MySQL, PostgreSQL                                   |
+| Databases             | PostgreSQL                                   |
 | Tools                 | Git, VSCode, Agile, Scrum                                                 |
 
 
